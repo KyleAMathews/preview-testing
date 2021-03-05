@@ -26,14 +26,10 @@
     "netlify-cli": "^2.54.0"
   },
   "engines": {
-    "node": ">=10.13.0"
+    "node": ">=12.13.0"
   },
   "homepage": "https://github.com/contentful/starter-gatsby-blog#readme",
-  "keywords": [
-    "gatsby",
-    "contentful",
-    "starter"
-  ],
+  "keywords": ["gatsby", "contentful", "starter"],
   "license": "MIT",
   "main": "n/a",
   "repository": {
